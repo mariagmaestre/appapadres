@@ -1,0 +1,15 @@
+{
+  "name": "Mi Entrenamiento",
+  "short_name": "Entrenamiento",
+  "description": "Rutina Full Body de 2 días con registro de pesos, repeticiones, historial y temporizador.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080d18",
+  "theme_color": "#080d18",
+  "lang": "es",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
